@@ -3,15 +3,17 @@
 </h1>
 
 This repository contains an implementation of circular doubly linked lists and queues using Object-Oriented Programming (OOP) and nodes principles in C++. The purpose of this project is to demonstrate how these data structures can be designed and used in an OOP environment.
-
+<br>  <br/>
 <div align="center">
     <img src="https://www.masaischool.com/blog/content/images/wordpress/2022/04/First-In-First-Out-Queue-768x512.png" title="Graphic Demonstration of Node Connections in a Queue"
        style="width: 35vw; height: auto;" />
 </div>
+<br>  <br/>
 <div align="center">
     <img src="https://www.monografias.com/trabajos107/guia-teoria-otras-estructuras-dinamicas-y-orden-algoritmos/image005.jpg" title="Graphic Demonstration of Node Connections in a Doubly Linked List and a Circular Doubly Linked List"
        style="width: 35vw; height: auto;" />
 </div>
+<br>  <br/>
 
  <h2> Contents: </h2>
 
