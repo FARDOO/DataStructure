@@ -22,7 +22,6 @@ This repository contains an implementation of circular doubly linked lists and q
 - Installation
 - Usage
 - Code Structure
-- Contributions
 - License
 
 <h2> Description: </h2>
